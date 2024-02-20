@@ -9,9 +9,9 @@ Right now, there are 3 limitations that are already implemented:
 ## Instructions:
 1. Copy the 'keyword-check' folder to user/plugins/.
 2. If needed, there are several parameters that can be modified as needed in plugin.php file:
-   a. $max_keyword_length to limit the keyword length,
-   b. $pattern to check forbidden keyword in RegEx format, and
-   c. $kwlist as a dictionary for blacklisted keywords.
+  * $max_keyword_length to limit the keyword length,
+  * $pattern to check forbidden keyword in RegEx format, and
+  * $kwlist as a dictionary for blacklisted keywords.
 3. Activate the plugin in the YOURLS admin interface.
 
 Voila!
