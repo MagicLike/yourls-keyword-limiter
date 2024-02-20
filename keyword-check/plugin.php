@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: keyword check
-Plugin URI: https://github.com/adigitalife/yourls-limit-keyword-length/
+Plugin Name: keyword-check
+Plugin URI: https://github.com/za22061991/yourls-keyword-limiter/
 Description: This plugin check for blacklisted keywords.
 Version: 1.0
 Author: RER
-Author URI: http://adigitalife.net/
+Author URI: -
 */
 
 // Hook our custom function into the 'shunt_add_new_link' filter
